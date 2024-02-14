@@ -81,6 +81,13 @@ Battery Charger: [Volos Project - ChargerM5StickC](https://github.com/VolosR/cha
   Projects [M5StickCPlusBrakeout](https://github.com/VolosR/M5StickCPlusBrakeout/tree/main)
 - **Tetris**: Adapted from Volos Projects [M5ScickPlusTetris](https://github.com/VolosR/M5ScickPlusTetris/blob/main/)
 
+## TODO
+- [ ] Serial terminal [https://github.com/electricidea/M5StickC-TB_Display](https://github.com/electricidea/M5StickC-TB_Display)
+- [ ] I2C Scanner
+- [ ] Oscilloscope [https://github.com/z4ziggy/M5StickCOscilloscope](https://github.com/z4ziggy/M5StickCOscilloscope)
+- [ ] RF power meter with AD8317
+- [ ] Frequnecy counter [https://github.com/kapraran/FreqCountESP](https://github.com/kapraran/FreqCountESP)
+
 ## Screens
 
 ### Sensors
